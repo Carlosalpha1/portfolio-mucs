@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "Diseño y Desarrollo de Sistemas Seguros"
+permalink: /ddss/
+entries_layout: grid
+author_profile: false
+---
+
+<link rel="stylesheet" href="ddss-archive-grid.css">
+
+<div class="archive-grid">
+    {% for page in site.pages %}
+        {% if page.url contains '/ddss/' %}
+            <div class="archive-grid-item">
+                {% if page.progress == true %}
+                    <h3>{{ page.title }} &nbsp;&nbsp;&nbsp;<span><a class="btn btn--danger" href="{{ page.url }}">On Progress</a></span></h2>
+                {% else %}
+                    <h3>{{ page.title }} &nbsp;&nbsp;&nbsp;<span><a class="btn btn--primary" href="{{ page.url }}">Acceso</a></span></h2>
+                {% endif %}
+            </div>
+        {% endif %}
+    {% endfor %}
+</div>
