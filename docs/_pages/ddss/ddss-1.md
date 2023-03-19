@@ -1,6 +1,6 @@
 ---
 title: "Clase 1"
-permalink: /ddss/ddss-1/
+permalink: /ddss-1/
 author_profile: true
 toc: true
 progress: false
