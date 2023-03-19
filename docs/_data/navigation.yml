@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Asignaturas"
-    url: /year-archive/
-  - title: "About Me"
+  - title: "Home"
+    url: /
+  - title: "Whoami"
     url: /about-me/
