@@ -18,27 +18,19 @@ feature_row:
   - image_path: assets/images/ddss.jpg
     alt: "Diseño y Desarrollo de Sistemas Seguros"
     title: "Diseño y Desarrollo de Sistemas Seguros"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Principios y buenas prácticas de diseño y desarrollo seguro en sistemas"
     url: "/ddss/"
-    btn_label: "Read More"
+    btn_label: "Acceso"
     btn_class: "btn--primary"
-
-feature_row2:
   - image_path: assets/images/ddss.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    alt: "Criptografía Aplicada"
+    title: "Criptografía Aplicada"
+    excerpt: "Mecanismos criptográficos para proteger la información y sus fundamentos matemáticos. Criptografía simétrica y asimétrica. Firmas digitales"
+    url: "/cripto/"
+    btn_label: "Acceso"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  
+
 # feature_row2:
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
 #     alt: "placeholder image 2"
