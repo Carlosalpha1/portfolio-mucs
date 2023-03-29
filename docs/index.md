@@ -15,18 +15,75 @@ intro:
   - excerpt: 'Master en Ciberseguridad.'
   - excerpt: 'Universdidad de Alcalá de Henares'
 feature_row:
-  - image_path: assets/images/ddss.jpg
+  - image_path: assets/images/fssc/front_page.jpg
+    alt: "Fundamentos de la Seguridad en el Software y los Componentes"
+    title: "Fundamentos de la Seguridad en el Software y los Componentes"
+    excerpt: "Loren impsum"
+    url: "/fssc/"
+    btn_label: "Acceso"
+    btn_class: "btn--primary"
+
+  - image_path: assets/images/cripto/front_page.jpg
+    alt: "Criptografía Aplicada"
+    title: "Criptografía Aplicada"
+    excerpt: "Mecanismos criptográficos para proteger la información y sus fundamentos matemáticos. Criptografía simétrica y asimétrica. Firmas digitales"
+    url: "/cripto/"
+    btn_label: "Acceso"
+    btn_class: "btn--primary"
+
+  - image_path: assets/images/fgsi/front_page.jpg
+    alt: "Fundamentos de la Gestión de la Seguridad de la Información"
+    title: "Fundamentos de la Gestión de la Seguridad de la Información"
+    excerpt: "Loren ipsum"
+    url: "/fgsi/"
+    btn_label: "Acceso"
+    btn_class: "btn--primary"
+
+  - image_path: assets/images/sic/front_page.jpg
+    alt: "Sistemas de Información para la Ciberseguridad"
+    title: "Sistemas de Información para la Ciberseguridad"
+    excerpt: "Loren ipsum"
+    url: "/sic/"
+    btn_label: "Acceso"
+    btn_class: "btn--primary"
+
+  - image_path: assets/images/segof/front_page.jpg
+    alt: "Seguridad Ofensiva"
+    title: "Seguridad Ofensiva"
+    excerpt: "Loren ipsum"
+    url: "/segof/"
+    btn_label: "Acceso"
+    btn_class: "btn--primary"
+  
+  - image_path: assets/images/iis/front_page.jpg
+    alt: "Ingeniería Inversa del Software"
+    title: "Ingeniería Inversa del Software"
+    excerpt: "Loren ipsum"
+    url: "/iis/"
+    btn_label: "Acceso"
+    btn_class: "btn--primary"
+
+  - image_path: assets/images/adc/front_page.jpg
+    alt: "Anáĺisis de Datos para la Ciberseguridad"
+    title: "Análisis de Datos para la Ciberseguridad"
+    excerpt: "Loren ipsum"
+    url: "/adc/"
+    btn_label: "Acceso"
+    btn_class: "btn--primary"
+
+  - image_path: assets/images/ddss/front_page.jpg
     alt: "Diseño y Desarrollo de Sistemas Seguros"
     title: "Diseño y Desarrollo de Sistemas Seguros"
     excerpt: "Principios y buenas prácticas de diseño y desarrollo seguro en sistemas"
     url: "/ddss/"
     btn_label: "Acceso"
     btn_class: "btn--primary"
-  - image_path: assets/images/ddss.jpg
-    alt: "Criptografía Aplicada"
-    title: "Criptografía Aplicada"
-    excerpt: "Mecanismos criptográficos para proteger la información y sus fundamentos matemáticos. Criptografía simétrica y asimétrica. Firmas digitales"
-    url: "/cripto/"
+
+  - image_path: assets/images/sgsi/front_page.jpg
+    alt: "Sistemas de gestión de la Seguridad de la Información"
+    title: "Sistemas de gestión de la Seguridad de la Información"
+    excerpt: "Loren ipsum"
+    url: "/sgsi/"
     btn_label: "Acceso"
     btn_class: "btn--primary"
   
