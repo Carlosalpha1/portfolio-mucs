@@ -1,6 +1,6 @@
 ---
 title: "[htb - writeups]"
-permalink: /iis/htb-writeups/
+permalink: /iis/writeups/
 author_profile: true
 toc: true
 progress: false
