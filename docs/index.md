@@ -18,7 +18,7 @@ feature_row:
   - image_path: assets/images/fssc/front_page.jpg
     alt: "Fundamentos de la Seguridad en el Software y los Componentes"
     title: "Fundamentos de la Seguridad en el Software y los Componentes"
-    excerpt: "Loren impsum"
+    excerpt: "Tipos de Malware, ciberdelitos, vulnerabilidades en el software, auditorías web, principios de Análisis Forense"
     url: "/fssc/"
     btn_label: "Acceso"
     btn_class: "btn--primary"
@@ -42,7 +42,7 @@ feature_row:
   - image_path: assets/images/sic/front_page.jpg
     alt: "Sistemas de Información para la Ciberseguridad"
     title: "Sistemas de Información para la Ciberseguridad"
-    excerpt: "Loren ipsum"
+    excerpt: "Bastionado de equipos, despliegue de IDS / IPS, ELK Stack, Honeypots"
     url: "/sic/"
     btn_label: "Acceso"
     btn_class: "btn--primary"
@@ -50,7 +50,7 @@ feature_row:
   - image_path: assets/images/segof/front_page.jpg
     alt: "Seguridad Ofensiva"
     title: "Seguridad Ofensiva"
-    excerpt: "Loren ipsum"
+    excerpt: "Ciber Kill Chain, MITRE ATT&CK, técnicas, tácticas y procedimientos"
     url: "/segof/"
     btn_label: "Acceso"
     btn_class: "btn--primary"
@@ -58,7 +58,7 @@ feature_row:
   - image_path: assets/images/iis/front_page.jpg
     alt: "Ingeniería Inversa del Software"
     title: "Ingeniería Inversa del Software"
-    excerpt: "Loren ipsum"
+    excerpt: "Lenguaje ensamblador, Desensamblado, decompilación y modificación de binarios"
     url: "/iis/"
     btn_label: "Acceso"
     btn_class: "btn--primary"
@@ -66,7 +66,7 @@ feature_row:
   - image_path: assets/images/adc/front_page.jpg
     alt: "Anáĺisis de Datos para la Ciberseguridad"
     title: "Análisis de Datos para la Ciberseguridad"
-    excerpt: "Loren ipsum"
+    excerpt: "Machine Learning, detección de anomalías, análisis de Redes Sociales"
     url: "/adc/"
     btn_label: "Acceso"
     btn_class: "btn--primary"
