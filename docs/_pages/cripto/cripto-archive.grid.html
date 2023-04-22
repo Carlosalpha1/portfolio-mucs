@@ -10,10 +10,12 @@ author_profile: true
     {% for page in site.pages %}
         {% if page.url contains '/cripto/' %}
             <div class="archive-grid-item">
-                {% if page.progress == true %}
-                    <h3>{{ page.title }} &nbsp;&nbsp;&nbsp;<span><a class="btn btn--danger" href="/portfolio-mucs{{ page.url }}">On Progress</a></span></h2>
-                {% else %}
-                    <h3>{{ page.title }} &nbsp;&nbsp;&nbsp;<span><a class="btn btn--primary" href="/portfolio-mucs{{ page.url }}">Acceso</a></span></h2>
+                {% if page.title != "Criptografía Aplicada" %}
+                    {% if page.progress == true %}
+                        <h3>{{ page.title }} &nbsp;&nbsp;&nbsp;<span><a class="btn btn--danger" href="/portfolio-mucs{{ page.url }}">On Progress</a></span></h2>
+                    {% else %}
+                        <h3>{{ page.title }} &nbsp;&nbsp;&nbsp;<span><a class="btn btn--primary" href="/portfolio-mucs{{ page.url }}">Acceso</a></span></h2>
+                    {% endif %}
                 {% endif %}
             </div>
         {% endif %}
