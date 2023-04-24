@@ -6,6 +6,8 @@ toc: true
 progress: false
 ---
 
+# Ingeniería Inversa del Software
+
 La Ingeniería Inversa del Software es el proceso de analizar y comprender el software existente para obtener información sobre su diseño, estructura, funcionamiento y lógica interna. En Ciberseguridad puede ser útil en varios ámbitos como el parcheo de aplicación y comprensión del malware antes de su ejecución en un entorno controlado.
 
 En esta asignatura se han abarcado varios temas importantes esenciales para saber aplicar Ingeniería Inversa sobre binarios.
