@@ -46,6 +46,14 @@ feature_row:
     url: "/sic/"
     btn_label: "Acceso"
     btn_class: "btn--primary"
+  
+  - image_path: assets/images/sic/front_page.jpg
+    alt: "Comunicaciones Seguras"
+    title: "Comunicaciones Seguras"
+    excerpt: "TODO"
+    url: "/ccss/"
+    btn_label: "Acceso"
+    btn_class: "btn--primary"
 
   - image_path: assets/images/segof/front_page.jpg
     alt: "Seguridad Ofensiva"
