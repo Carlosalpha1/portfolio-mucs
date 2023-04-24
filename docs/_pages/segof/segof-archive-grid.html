@@ -9,9 +9,11 @@ author_profile: true
 <div class="archive-grid">
     {% for page in site.pages %}
         {% if page.url contains '/segof/' %}
-            <div class="archive-grid-item">
-                <a href="/portfolio-mucs{{ page.url }}"><h3>{{ page.title }}</h3></a>
-            </div>
+            {% if page.title != "Seguridad Ofensiva" %}
+                <div class="archive-grid-item">
+                    <a href="/portfolio-mucs{{ page.url }}"><h3>{{ page.title }}</h3></a>
+                </div>
+            {% endif %}
         {% endif %}
     {% endfor %}
 </div>
