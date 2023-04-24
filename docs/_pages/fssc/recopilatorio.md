@@ -1,6 +1,6 @@
 ---
 title: "Recopilación"
-permalink: /fssc
+permalink: /portfolio-mucs/fssc
 author_profile: true
 toc: true
 progress: false
