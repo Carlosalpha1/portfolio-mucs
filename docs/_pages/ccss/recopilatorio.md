@@ -1,6 +1,6 @@
 ---
 title: "Recopilación"
-permalink: /ccss
+permalink: /ccss/
 author_profile: true
 toc: true
 progress: false
