@@ -19,7 +19,7 @@ feature_row:
     alt: "Fundamentos de la Seguridad en el Software y los Componentes"
     title: "Fundamentos de la Seguridad en el Software y los Componentes"
     excerpt: "Tipos de Malware, ciberdelitos, vulnerabilidades en el software, auditorías web, principios de Análisis Forense"
-    url: "/portfolio-mucs/fssc/"
+    url: "/fssc/"
     btn_label: "Acceso"
     btn_class: "btn--primary"
 
@@ -51,7 +51,7 @@ feature_row:
     alt: "Comunicaciones Seguras"
     title: "Comunicaciones Seguras"
     excerpt: "TODO"
-    url: "/portfolio-mucs/ccss"
+    url: "/ccss/"
     btn_label: "Acceso"
     btn_class: "btn--primary"
 
