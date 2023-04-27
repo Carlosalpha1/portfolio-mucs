@@ -47,7 +47,7 @@ feature_row:
     btn_label: "Acceso"
     btn_class: "btn--primary"
   
-  - image_path: assets/images/sic/front_page.jpg
+  - image_path: assets/images/ccss/front_page.jpg
     alt: "Comunicaciones Seguras"
     title: "Comunicaciones Seguras"
     excerpt: "TODO"
