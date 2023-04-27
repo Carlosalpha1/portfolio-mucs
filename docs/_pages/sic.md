@@ -22,4 +22,17 @@ El despliegue de IPS implica la instalación y configuración de los dispositivo
 
 ## SIEM
 
-## Honeypots
+El SIEM (Security Information and Event Management) es una solución de seguridad informática que se utiliza para recopilar, correlacionar y analizar los datos de seguridad de diferentes fuentes en una organización. Los datos de seguridad pueden incluir registros de firewall, registros de sistemas de detección de intrusiones (IDS) y sistemas de prevención de intrusiones (IPS), registros de sistemas operativos, registros de aplicaciones y cualquier otro registro de actividad de red o de sistema.
+
+La principal función del SIEM es proporcionar una visión general de la situación de seguridad de la organización, identificar las amenazas y responder rápidamente a las incidencias de seguridad. Para ello, los datos de seguridad se recopilan y se almacenan en un repositorio centralizado donde se pueden analizar y correlacionar para detectar patrones de comportamiento sospechosos.
+
+En la asignatura se ha visto ElasticSearch y AlienVault para poner en práctica los conceptos vistos teóricamente.
+
+## Firewalls de Última Generación
+Los firewalls de última generación también han sido un tema importante en la asignatura, ya que son una pieza clave en la protección de los sistemas informáticos. Estos firewalls no solo bloquean el tráfico no deseado, sino que también analizan el tráfico permitido en busca de comportamientos sospechosos. Además, pueden integrarse con otros sistemas de seguridad, como SIEM, para ofrecer una protección más completa.
+
+## HoneyPots
+
+Por último, se ha abordado el tema de los honeypots, que son sistemas diseñados para atraer a los atacantes y permitir a los administradores de seguridad estudiar su comportamiento y aprender sobre las técnicas de ataque utilizadas. Los honeypots no son sistemas de producción reales, sino sistemas aislados que se utilizan exclusivamente para fines de investigación.
+
+En conclusión, la asignatura de Sistemas de Información para la Ciberseguridad ha sido fundamental para comprender la importancia de proteger los sistemas informáticos y los datos que se almacenan en ellos. Los temas vistos, como IDS, IPS, SIEM, firewalls de última generación y honeypots, son herramientas vitales para la protección de los sistemas y la detección de posibles amenazas.
