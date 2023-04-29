@@ -1,6 +1,6 @@
 ---
-title: "Sesion 1"
-permalink: /cripto/cripto-1/
+title: "Recopilación"
+permalink: /cripto/
 author_profile: true
 toc: true
 progress: false
