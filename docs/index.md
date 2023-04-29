@@ -34,7 +34,7 @@ feature_row:
   - image_path: assets/images/fgsi/front_page.jpg
     alt: "Fundamentos de la Gestión de la Seguridad de la Información"
     title: "Fundamentos de la Gestión de la Seguridad de la Información"
-    excerpt: "Loren ipsum"
+    excerpt: "Certificaciones, auditorias, análisis de riesgos, EIPD, normativas, políticas de seguridad, Esquema Nacional de Seguridad"
     url: "/fgsi/"
     btn_label: "Acceso"
     btn_class: "btn--primary"
@@ -50,7 +50,7 @@ feature_row:
   - image_path: assets/images/ccss/front_page.jpg
     alt: "Comunicaciones Seguras"
     title: "Comunicaciones Seguras"
-    excerpt: "TODO"
+    excerpt: "Utilización de esquemas criptográficos, TLS, HTTPS, BGP, redes WPA2-Enterprise, BLE..."
     url: "/ccss/"
     btn_label: "Acceso"
     btn_class: "btn--primary"
