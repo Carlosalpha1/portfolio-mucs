@@ -7,9 +7,6 @@ header:
   overlay_color: "#FFF"
   overlay_filter: "0.2"
   overlay_image: /assets/images/banner-intro.png
-  actions:
-    - label: "Learn More"
-      url: "/terms/"
 excerpt: "Carlos Caminero Abad"
 intro: 
   - excerpt: 'Master en Ciberseguridad.'
@@ -90,7 +87,7 @@ feature_row:
   - image_path: assets/images/sgsi/front_page.jpg
     alt: "Sistemas de gestión de la Seguridad de la Información"
     title: "Sistemas de gestión de la Seguridad de la Información"
-    excerpt: "Loren ipsum"
+    excerpt: "Gobierno, Riesgo y Cumplimiento, planes de negocio..."
     url: "/sgsi/"
     btn_label: "Acceso"
     btn_class: "btn--primary"
