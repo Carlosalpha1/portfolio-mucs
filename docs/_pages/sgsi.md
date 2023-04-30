@@ -1,6 +1,6 @@
 ---
 title: "Recopilación"
-permalink: /sgsi
+permalink: /sgsi/
 author_profile: true
 toc: true
 progress: false
