@@ -1,6 +1,6 @@
 ---
 title: "Recopilación"
-permalink: /ddss
+permalink: /ddss/
 author_profile: true
 toc: true
 progress: false
