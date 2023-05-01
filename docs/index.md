@@ -9,8 +9,8 @@ header:
   overlay_image: /assets/images/banner-intro.png
 excerpt: "Carlos Caminero Abad"
 intro: 
-  - excerpt: 'Master en Ciberseguridad.'
-  - excerpt: 'Universdidad de Alcalá de Henares'
+  - excerpt: 'Máster en Ciberseguridad.'
+  - excerpt: 'Universidad de Alcalá de Henares'
 feature_row:
   - image_path: assets/images/fssc/front_page.jpg
     alt: "Fundamentos de la Seguridad en el Software y los Componentes"
